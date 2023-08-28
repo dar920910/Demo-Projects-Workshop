@@ -1,4 +1,6 @@
 # Demo Projects Workshop 2023
 
-- **README_EN.md** - about this repository if for English-speaking users.
-- **README_RU.md** - about this repository if for Russian-speaking users.
+Learn more about this repository:
+
+- **README_EN.md** - README for English-speaking users.
+- **README_RU.md** - README for Russian-speaking users.
