@@ -20,7 +20,8 @@ Learn more about this repository:
 
 ### **Automation Tools**
 
+- BitArrayItemsIntersectTool: https://github.com/dar920910/BitArrayItemsIntersectTool
 - TextLinesCompareTool: https://github.com/dar920910/TextLinesCompareTool
 - TextWordsSearchTool: https://github.com/dar920910/TextWordsSearchTool
-- BitArrayItemsIntersectTool: https://github.com/dar920910/BitArrayItemsIntersectTool
-- BitwiseOperationsExploreTool: https://github.com/dar920910/BitwiseOperationsExploreTool
+- TestFilesGenerationTool: https://github.com/dar920910/TestFilesGenerationTool
+- TestQueriesGenerationTool: https://github.com/dar920910/TestQueriesGenerationTool
