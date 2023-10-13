@@ -61,19 +61,17 @@
 
 - :white_check_mark: :link: [**BooleanArrayExploreTool** - Инструмент для анализа содержимого двумерного логического массива](https://github.com/dar920910/BooleanArrayExploreTool/tree/main)
 
-- :white_check_mark: :link: [**TextWordsSearchTool** - Инструмент для поиска всех слов в содержимом конкретного текстового файла](https://github.com/dar920910/TextWordsSearchTool)
+- :white_check_mark: :link: [**TextWordsSearchTool** - Инструмент для поиска слов в содержимом текстового файла](https://github.com/dar920910/TextWordsSearchTool)
 
-- :white_check_mark: :link: [**TextLinesCompareTool** - Инструмент для сравнения строкового содержимого нескольких текстовых файлов](https://github.com/dar920910/TextLinesCompareTool)
+- :white_check_mark: :link: [**TextLinesCompareTool** - Инструмент для сравнения содержимого нескольких текстовых файлов](https://github.com/dar920910/TextLinesCompareTool)
 
-- :white_check_mark: :link: [**TestFilesGenerationTool** - Инструмент для настраиваемой генерации запросов на основе XML-конфигурации](https://github.com/dar920910/TestFilesGenerationTool)
+- :white_check_mark: :link: [**TestFilesGenerationTool** - Генератор конфигурируемых запросов на основе XML-шаблона](https://github.com/dar920910/TestFilesGenerationTool)
 
-- :white_check_mark: :link: [**TestFilesGenerationTool** - Инструмент для настраиваемой генерации файлов на основе XML-конфигурации](https://github.com/dar920910/TestFilesGenerationTool)
+- :white_check_mark: :link: [**TestFilesGenerationTool** - Генератор пользовательских файлов на основе XML-шаблона](https://github.com/dar920910/TestFilesGenerationTool)
 
 ### :hourglass_flowing_sand: Запланировано: 2023-2024
 
-- :black_square_button: :link: [Northwind-OnlineShop-DemoProject](https://github.com/dar920910/Northwind-OnlineShop-DemoProject)
-- :black_square_button: :link: [Advanced-TODO-Manager](https://github.com/dar920910/Advanced-TODO-Manager)
-- :black_square_button: :link: [BoardGameProject-Gwent](https://github.com/dar920910/BoardGameProject-Gwent)
+:black_square_button: :link: [Northwind-OnlineShop-DemoProject](https://github.com/dar920910/Northwind-OnlineShop-DemoProject)
 
 ---
 

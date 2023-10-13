@@ -61,8 +61,6 @@ If you want to collaborate a demo project together with me, you should to contac
 
 ### :hourglass_flowing_sand: Planned (2023-2024)
 
-- :black_square_button: :link: [Northwind-OnlineShop-DemoProject](https://github.com/dar920910/Northwind-OnlineShop-DemoProject)
-- :black_square_button: :link: [Advanced-TODO-Manager](https://github.com/dar920910/Advanced-TODO-Manager)
-- :black_square_button: :link: [BoardGameProject-Gwent](https://github.com/dar920910/BoardGameProject-Gwent)
+:black_square_button: :link: [Northwind-OnlineShop-DemoProject](https://github.com/dar920910/Northwind-OnlineShop-DemoProject)
 
 ---
