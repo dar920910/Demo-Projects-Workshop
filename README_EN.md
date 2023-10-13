@@ -34,7 +34,7 @@ A demo project can be compared with practical learn projects in range from an re
 
 This repository is **summary** documented the current state of my demo projects:
 
-- It's a convenient way to **demonsrate** my own open-source projects
+- It's a convenient way to **demonstrate** my own open-source projects
 - It's a convenient way to **support** the life state of my demo projects
 
 If you're a software developer, you can reuse my demo projects to do your work.
