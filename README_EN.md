@@ -55,7 +55,7 @@ If you want to collaborate a demo project together with me, you should to contac
 
 - :white_check_mark: :link: [**TextLinesCompareTool**](https://github.com/dar920910/TextLinesCompareTool)
 
-- :white_check_mark: :link: [**TestFilesGenerationTool**](https://github.com/dar920910/TestFilesGenerationTool)
+- :white_check_mark: :link: [**TestQueriesGenerationTool**](https://github.com/dar920910/TestQueriesGenerationTool)
 
 - :white_check_mark: :link: [**TestFilesGenerationTool**](https://github.com/dar920910/TestFilesGenerationTool)
 

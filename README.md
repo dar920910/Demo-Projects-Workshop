@@ -65,7 +65,7 @@
 
 - :white_check_mark: :link: [**TextLinesCompareTool** - Инструмент для сравнения содержимого нескольких текстовых файлов](https://github.com/dar920910/TextLinesCompareTool)
 
-- :white_check_mark: :link: [**TestFilesGenerationTool** - Генератор конфигурируемых запросов на основе XML-шаблона](https://github.com/dar920910/TestFilesGenerationTool)
+- :white_check_mark: :link: [**TestQueriesGenerationTool** - Генератор конфигурируемых запросов на основе XML-шаблона](https://github.com/dar920910/TestQueriesGenerationTool)
 
 - :white_check_mark: :link: [**TestFilesGenerationTool** - Генератор пользовательских файлов на основе XML-шаблона](https://github.com/dar920910/TestFilesGenerationTool)
 
