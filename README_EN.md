@@ -59,8 +59,6 @@ If you want to collaborate a demo project together with me, you should to contac
 
 - :white_check_mark: :link: [**TestFilesGenerationTool**](https://github.com/dar920910/TestFilesGenerationTool)
 
-### :hourglass_flowing_sand: Planned (2023-2024)
-
-:black_square_button: :link: [Northwind-OnlineShop-DemoProject](https://github.com/dar920910/Northwind-OnlineShop-DemoProject)
+- :white_check_mark: :link: [**RandomObjectsGenerator**](https://github.com/dar920910/RandomObjectsGenerator)
 
 ---

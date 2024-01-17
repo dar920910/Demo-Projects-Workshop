@@ -69,9 +69,7 @@
 
 - :white_check_mark: :link: [**TestFilesGenerationTool** - Генератор пользовательских файлов на основе XML-шаблона](https://github.com/dar920910/TestFilesGenerationTool)
 
-### :hourglass_flowing_sand: Запланировано: 2023-2024
-
-:black_square_button: :link: [Northwind-OnlineShop-DemoProject](https://github.com/dar920910/Northwind-OnlineShop-DemoProject)
+- :white_check_mark: :link: [**RandomObjectsGenerator** - Генератор случайных персонажей на основе предопределенной модели](https://github.com/dar920910/RandomObjectsGenerator)
 
 ---
 
