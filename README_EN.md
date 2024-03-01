@@ -1,4 +1,4 @@
-# :hammer: Demo Projects Workshop 2023
+# :hammer: Demo Projects Workshop
 
 Welcome to my demo projects workshop's repository page :wave:
 

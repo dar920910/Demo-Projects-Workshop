@@ -1,4 +1,4 @@
-# :hammer: Мастерская Демо-Проектов 2023
+# :hammer: Мастерская Демо-Проектов
 
 Добро пожаловать на страницу репозитория моей мастерской демо-проектов :wave:
 
@@ -57,8 +57,6 @@
 
 ## :books: Каталог Демо-Проектов
 
-### :pushpin: Текущий Статус: Осень 2023
-
 - :white_check_mark: :link: [**BooleanArrayExploreTool** - Инструмент для анализа содержимого двумерного логического массива](https://github.com/dar920910/BooleanArrayExploreTool/tree/main)
 
 - :white_check_mark: :link: [**TextWordsSearchTool** - Инструмент для поиска слов в содержимом текстового файла](https://github.com/dar920910/TextWordsSearchTool)
@@ -68,12 +66,6 @@
 - :white_check_mark: :link: [**TestQueriesGenerationTool** - Генератор конфигурируемых запросов на основе XML-шаблона](https://github.com/dar920910/TestQueriesGenerationTool)
 
 - :white_check_mark: :link: [**TestFilesGenerationTool** - Генератор пользовательских файлов на основе XML-шаблона](https://github.com/dar920910/TestFilesGenerationTool)
-
-### :hourglass_flowing_sand: Запланировано: 2023-2024
-
-:black_square_button: :link: [Northwind-OnlineShop-DemoProject](https://github.com/dar920910/Northwind-OnlineShop-DemoProject)
-
----
 
 ## :question: For English-Speaking Users
 
